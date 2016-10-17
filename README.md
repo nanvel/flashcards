@@ -2,6 +2,8 @@
 
 See [flashcardsjs](https://github.com/nanvel/flashcardsjs).
 
+An example: [Learn japanese kana](https://nanvel.github.io/kanalearn/).
+
 ## How to create your own flashcards app
 
 Clone this repository:
